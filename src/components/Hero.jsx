@@ -24,7 +24,7 @@ const Hero = () => {
             Hi , I'm <span className="text-[#915EFF]">Dahat Muhammad</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I`m Network Engineers <br className="sm:block hidden" />
+            I`m Network Engineer <br className="sm:block hidden" />
           </p>
           <ul style={{ listStyleType: "revert", margin: 20, marginLeft: 50 }}>
             <li>Network</li>
